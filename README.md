@@ -1,2 +1,2 @@
 # Summer-School-Texture
-Measurement and characterisation of non-uniform appearance (texture) using sensors 
+Practical Work : Measurement and characterisation of non-uniform appearance (texture) using sensors 
