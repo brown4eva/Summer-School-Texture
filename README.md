@@ -6,3 +6,7 @@
 3. Physical and Perceptual measures
 4. Manipulating multivalued images
 
+
+
+Downloads:
+1. Raw Characterized Sensor Nikon D850 here ==> [I'm an inline-style link](https://www.google.com)
