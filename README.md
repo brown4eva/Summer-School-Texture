@@ -1,4 +1,4 @@
-<img src="https://hr2s.labo.univ-poitiers.fr/formation-ecole-dete-mesure-et-caracterisation-de-laspect-non-uniforme-texture-par-des-capteurs-dijon/" width="400">
+<img src="https://hr2s.labo.univ-poitiers.fr/wp-content/uploads/sites/824/2025/03/xDessin1-1-1024x648.jpg.pagespeed.ic.6-DSTxVL67.jpg" width="1000">
 
 # Summer-School-Texture
 ## Practical Work : Measurement and Characterisation of non-uniform appearance (texture) using sensors.
