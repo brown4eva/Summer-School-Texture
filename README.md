@@ -3,7 +3,7 @@
 
 
 
-## Practical Work : 
+## Practical Work: 
 1. Light measurements
 2. Camera Calibration
 3. Physical and Perceptual measures
@@ -11,5 +11,5 @@
 
 
 
-Downloads:
+## Downloads:
 1. [Raw Characterized Sensor Nikon D850](https://drive.google.com/drive/folders/1S5UD7jXfGF4zW0iJ7FCIh3Mp2BCDLfn_?usp=drive_link)
