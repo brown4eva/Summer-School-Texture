@@ -3,6 +3,6 @@
 
 1. Light measurements
 2. Camera Calibration
-3. Physical and Perceptualmeasures
+3. Physical and Perceptual measures
 4. Manipulating multivalued images
 
