@@ -3,7 +3,7 @@
 
 
 
-## Practical Work: 
+## Practical Works: 
 1. Light measurements
 2. Camera Calibration
 3. Physical and Perceptual measures
