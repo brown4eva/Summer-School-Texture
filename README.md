@@ -17,6 +17,6 @@
 
  - Installing needed Libraries:
    ```Shell
-   cd scripts/
+   cd Scripts/
    pip install -r requirements.txt
    ```
