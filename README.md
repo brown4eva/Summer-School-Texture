@@ -15,9 +15,8 @@
 1. [Raw Characterized Sensor Nikon D850](https://drive.google.com/drive/folders/1S5UD7jXfGF4zW0iJ7FCIh3Mp2BCDLfn_?usp=drive_link)
 2. [Synthetic Spectral Images](https://filesender.renater.fr/?s=download&token=317bc03f-0c86-4c3e-b3e1-c54ff2789717)
 
- - Install some other packages:
+ - Installing needed Libraries:
    ```Shell
-   # Cython needs to be installed before pycocotools
-   pip install cython
-   pip install opencv-python pillow pycocotools matplotlib 
+   cd scripts/
+   pip install -r requirements.txt
    ```
