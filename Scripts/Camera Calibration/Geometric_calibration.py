@@ -20,7 +20,7 @@ objpoints = []  # 3d point in real world
 imgpoints = []  # 2d points in image plane
 
 # === Load Calibration Images ===
-image_folder = './calibration_images'
+image_folder = './Group_1'
 images = glob.glob(os.path.join(image_folder, '*.jpg'))  # Change to .png if needed
 
 for fname in images:
